@@ -1,0 +1,21 @@
+.event-thumbnail {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.event-thumbnail img {
+    height: 220px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.event-thumbnail h3 {
+    margin: 8px;
+}
+
+.thumbnail-date {
+    margin-top: 8px;
+}

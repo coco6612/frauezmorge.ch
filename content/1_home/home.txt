@@ -1,0 +1,64 @@
+Title: Startseite
+
+----
+
+Nextevent: - page://JGEBvQnjwKI9EUHM
+
+----
+
+Events:
+
+- page://r5fprAneWthxb0gR
+- page://85l2zGIgPCLBHEaV
+- page://9dvBoL5xUy1ZRaQP
+- page://kHEX9T6vogrYGHg3
+- page://78WqncqdhGKAGo0h
+
+----
+
+Next: - page://JGEBvQnjwKI9EUHM
+
+----
+
+Headliners:
+
+- 
+  text: >
+    Wissen Sie nicht wo Ihnen der Kopf
+    steht?
+- 
+  text: Nervt Sie mal wieder das Amt?
+- 
+  text: >
+    Ist der Brief nicht nach Ihrem
+    Geschmack?
+- 
+  text: Ist mal wieder keiner verfügbar?
+- 
+  text: Sind die Lebensmittel ausgegangen?
+- 
+  text: Keiner da, der den Laden hütet?
+- 
+  text: >
+    Wäre es schön, mal wieder mit jemandem
+    zu reden?
+- 
+  text: >
+    Viele Kinder, aber keine Hilfe beim
+    Hüten?
+
+----
+
+Abouttext: Wir sind ein motiviertes, kleines Team in Egg bestehend aus ehemaligen professionellen Mitarbeitern mehrerer Fachrichtungen und stehen Ihnen immer dann zur Verfügung, wenn Not am Mann bzw. der Frau ist.
+
+----
+
+Servicetext:
+
+Schauen Sie sich unser (link: /angebot text: Serviceangebot) an und scheuen Sie sich nicht uns anzufragen, falls Sie etwas nicht gleich finden. Wir sind darauf spezialisiert auch für ungewöhnliche Anfragen Lösungen zu finden.
+
+**Unmöglich gibt's erst mal nicht.**
+
+----
+
+Uuid: My1PN4wAnxiKe1u1

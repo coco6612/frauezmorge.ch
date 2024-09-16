@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#939B62;}
+	.st2{fill:none;stroke:#231F20;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="256" cy="256" r="366.5"/>
+<g>
+	<path id="XMLID_933_" class="st1" d="M381.6,431.7H130.4c0-11-9-20-20-20V311.1c11,0,20-9,20-20h251.2c0,11,9,20,20,20v100.6
+		C390.5,411.7,381.6,420.7,381.6,431.7z"/>
+	<g>
+		<rect id="XMLID_936_" x="10" y="210.8" class="st2" width="492" height="40.2"/>
+		<polyline id="XMLID_935_" class="st2" points="441.8,251 441.8,471.9 481.9,471.9 481.9,251 		"/>
+		<polyline id="XMLID_934_" class="st2" points="70.2,251 70.2,471.9 30.1,471.9 30.1,251 		"/>
+		<line id="XMLID_932_" class="st2" x1="198.8" y1="331.3" x2="198.8" y2="391.6"/>
+		<line id="XMLID_931_" class="st2" x1="240.5" y1="331.3" x2="240.5" y2="391.6"/>
+		<line id="XMLID_930_" class="st2" x1="198.8" y1="360.4" x2="240.5" y2="360.4"/>
+		<line id="XMLID_923_" class="st2" x1="287.9" y1="362.8" x2="313.2" y2="391.6"/>
+		<line id="XMLID_922_" class="st2" x1="280.6" y1="331.3" x2="280.6" y2="391.6"/>
+		<path id="XMLID_921_" class="st2" d="M313.2,347c0,8.6-7.6,15.7-16.5,15.7c-4.4,0-15.9,0.1-15.9,0.1c-0.2-43-0.1-28.2-0.1-31.4
+			c0,0,10.8,0,16,0C305.6,331.3,313.2,338.3,313.2,347z"/>
+		<path id="XMLID_918_" class="st2" d="M140.8,120.4h-0.6c-38.7,0-70,31.3-70,70v20.4h140.6v-20.4
+			C210.8,151.8,179.5,120.4,140.8,120.4z"/>
+		<circle id="XMLID_917_" class="st2" cx="140.5" cy="80.3" r="40.2"/>
+		<polyline id="XMLID_7_" class="st2" points="411.6,170.7 411.6,210.8 351.4,210.8 351.4,170.7 		"/>
+		<line id="XMLID_905_" class="st2" x1="30.1" y1="471.9" x2="481.9" y2="471.9"/>
+	</g>
+	<g id="XMLID_916_">
+		<path class="st1" d="M461.9,180.7H301.1c-16.5,0-30-13.5-30-30V60.1c0-16.5,13.5-30,30-30h160.8c16.5,0,30,13.5,30,30v90.5
+			C491.9,167.2,478.5,180.7,461.9,180.7z"/>
+	</g>
+</g>
+</svg>

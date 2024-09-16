@@ -1,0 +1,45 @@
+.headliner {
+    font-size: 60px;
+    line-height: 100px;
+    padding: 60px 0;
+    text-align: center;
+    min-height: 320px;
+}
+
+
+.past-events {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.past-events a, .past-events a:hover {
+    text-decoration: none;
+}
+
+
+#cursor {
+    color: var(--color-accent);
+}
+
+@media (max-width: 1100px) {
+
+    .headliner {
+        font-size: 32px;
+        line-height: 40px;
+        padding: 24px 0;
+        min-height: 208px;
+    }
+
+    .content-bubble {
+        padding-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .past-events {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+}

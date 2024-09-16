@@ -1,0 +1,91 @@
+.teaser-head {
+    font-family: "Chewy", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--color-accent);
+    font-size: 30px;
+}
+
+.teaser-title {
+    max-width: 300px;
+}
+.event-teaser {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.event-teaser h1 {
+    font-size: 48px;
+    font-family: "League Spartan", sans-serif;
+    font-weight: bold;
+}
+
+.event-teaser h2 {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.event-teaser__text {
+    text-align: left;
+    padding: 32px 80px 32px 16px;
+    max-width: 600px;
+}
+
+.event-teaser__img {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 32px 16px;
+    position: relative;
+}
+
+.event-teaser__img img {
+    object-fit: cover;
+    border-radius: 50px;
+    max-height: 480px;
+    z-index: 2;
+    margin-bottom: 140px;
+}
+
+.event-teaser__shape {
+    position: absolute;
+    z-index: 0;
+    right: -50px;
+    bottom: 0;
+}
+
+.event-teaser__shape svg {
+    width: 400px;
+}
+
+.event-teaser__shape svg path {
+    fill: var(--color-accent);
+}
+
+@media screen and (max-width: 1100px) {
+    .event-teaser__text {
+        text-align: left;
+        max-width: 100%;
+        padding: 32px 16px;
+    }
+
+    .event-teaser__img {
+        justify-content: right;
+        width: 100%;
+    }
+
+    .event-teaser__img img {
+        border-radius: 25px;
+    }
+
+    .event-teaser {
+        flex-wrap: wrap;
+    }
+
+    .event-teaser__shape svg {
+        width: 300px;
+    }
+
+}
