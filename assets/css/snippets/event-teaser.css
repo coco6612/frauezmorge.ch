@@ -47,6 +47,7 @@
     max-height: 480px;
     z-index: 2;
     margin-bottom: 140px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .event-teaser__shape {

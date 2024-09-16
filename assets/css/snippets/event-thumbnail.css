@@ -6,10 +6,23 @@
     margin-bottom: 16px;
 }
 
+.event-thumbnail-link {
+    text-decoration: none;
+}
+
+.event-thumbnail-link:hover {
+    color: black;
+}
+
+.event-thumbnail-link:hover img {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
 .event-thumbnail img {
     height: 220px;
     object-fit: cover;
     border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 .event-thumbnail h3 {
