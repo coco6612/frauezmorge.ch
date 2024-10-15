@@ -10,6 +10,10 @@ Name: Ein NEIN  zur rechten Zeit
 
 ----
 
+Subtitle: 
+
+----
+
 Speaker:
 
 **Referentin:** Monica Kunz
@@ -25,7 +29,7 @@ Nehmen Sie sich Zeit für einen spannenden Vortrag, interessante Gespräche und 
 
 ----
 
-Subscribeurl: 
+Subscribeurl: https://form.jotform.com/242673173139358
 
 ----
 

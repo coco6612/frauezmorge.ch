@@ -13,35 +13,11 @@ sections:
     type: fields
     fields:
       intro:
-        label: Einleitung
+        label: Der Frauenzmorgen
         type: textarea
-      line1:
-        type: line
-      person1:
-        label: Person
-        type: headline
-      imagePersonOne:
-        label: Bild
-        type: files
-        layout: cards
-        size: tiny
-        width: 1/3
-      textPersonOne:
-        label: Text
+      dasTeam:
+        label: Das Team
         type: textarea
-        width: 2/3
-      line2:
-        type: line
-      person2:
-        label: Person
-        type: headline
-      imagePersonTwo:
-        label: Bild
-        type: files
-        layout: cards
-        size: tiny
-        width: 1/3
-      textPersonTwo:
-        label: Text
+      history:
+        label: Geschichte
         type: textarea
-        width: 2/3

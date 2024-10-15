@@ -11,7 +11,7 @@
     <?php endif ?>
     <?php if($type == 'details'): ?>
       <p><?= $event->details()->kirbytext() ?></p>
-      <?php if(!empty($event->subscribeUrl())): ?>
+      <?php if($event->subscribeUrl()->isNotEmpty()): ?>
         <?php snippet('more-link', ['text' => 'Jetzt anmelden', 'linkedUrl' => $event->subscribeUrl()]) ?>
       <?php endif ?>
     <?php endif ?>
