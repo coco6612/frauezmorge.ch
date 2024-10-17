@@ -24,12 +24,8 @@
     display: none;
 }
 
-.gallery-image:first-child {
-    width: 100%;
-    max-height: 560px;
-}
 
-.gallery-image:not(:first-child) {
+.gallery-image {
     flex-basis: 31%;
     cursor: pointer;
     min-height: 180px;
@@ -55,9 +51,9 @@
         display: block;
     }
 
-    .gallery-image:not(:first-child) {
+    .gallery-image {
         min-height: 0;
-        flex-basis: 28%;
+        flex-basis: 100%;
     }
 
     .showroom-gallery {

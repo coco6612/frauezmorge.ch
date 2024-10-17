@@ -31,7 +31,7 @@
   ?>
   <?php
     foreach($files as $key => $image):?>
-      <div class="gallery-image" onclick="setMainImage(<?= $index ?>, '<?= $image->resize(1200)->url() ?>')">
+      <div class="gallery-image">
         <img id="<?= 'image' . $index ?>" src="<?= $image->resize(1200)->url() ?>" /> 
       </div>
       <?php $index++;?>
