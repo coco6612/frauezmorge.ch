@@ -1,6 +1,6 @@
 # Each page blueprint must have a title, the title may be different from the file name
-title: Team
-icon: 👱
+title: Frauezmorge
+icon: 🥐
 
 # Page options allow you to control how users can interact with the page.
 # Here we prevent changing the page status (the home page cannot be renamed or deleted by default)
@@ -12,9 +12,12 @@ sections:
   content:
     type: fields
     fields:
-      dasTeam:
-        label: Das Team
+      intro:
+        label: Der Frauenzmorgen
         type: textarea
-      history:
-        label: Geschichte
-        type: textarea
+      impressionImage:
+        label: Bilder
+        type: files
+        size: small
+        layout: cards
+        min: 4

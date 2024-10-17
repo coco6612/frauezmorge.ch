@@ -87,6 +87,7 @@
     </div>
     <div class="navbar-top" id="navbar-top">
       <a class="<?= $pages->find('home')->isOpen() ? 'active' : '' ?>" href="/">Startseite</a>
+      <a class="<?= $pages->find('frauezmorge')->isOpen() ? 'active' : '' ?>" href="/frauezmorge">Frauezmorge</a>
       <a class="<?= $pages->find('team')->isOpen() ? 'active' : '' ?>" href="/team">Über uns</a>
     </div>
     <a class="navbar-icon" href="javascript:void(0);" class="icon" onclick="toggleNavigation()">
@@ -94,6 +95,7 @@
     </a>
     <div class="navbar-menu" id="navbar-menu">
       <a href="/">Startseite</a>
+      <a href="/frauezmorge">Frauezmorge</a>
       <a href="/team">Über uns</a>
     </div>
   </div>
