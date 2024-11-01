@@ -5,7 +5,7 @@
     <h1 class="teaser-title"><?= $event->name() ?></h1>
     <h2>Samstag - <?= $event->date()->toDate('d.m.Y') ?></h2>
     <p><?= $event->speaker()->kirbytext() ?></p>
-    <p><?= $event->abstract() ?></p>
+    <p><?= $event->abstract()->kirbytext() ?></p>
     <?php if($type == 'teaser'): ?>
       <?php snippet('more-link', ['text' => 'Mehr Informationen', 'linkedUrl' => $event->url()]) ?>
     <?php endif ?>
