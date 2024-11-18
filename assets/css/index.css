@@ -92,7 +92,7 @@ h2 {
     font-weight: normal;
 }
 
-p {
+p, li {
     line-height: 1.6em;
     font-size: 1.1rem;
 }
@@ -141,6 +141,11 @@ figure {
     margin: auto;
 }
 
+.event-notes {
+    text-align: left;
+    margin: 100px 20px;
+}
+
 
 @media (max-width: 1100px) {
 
@@ -167,5 +172,10 @@ figure {
         width: 100%;
         padding: 8px 0 32px 0;
     }
+
+    .event-notes {
+        text-align: left;
+        margin: 20px 20px;
+        }
 
 }

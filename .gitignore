@@ -1,2 +1,6 @@
 /content/*
 /content
+/media
+/site/cache
+/site/sessions
+/site/sessions
